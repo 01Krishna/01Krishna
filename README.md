@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @01Krishna
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in 3d Game Development.
+- 🌱 I’m currently learning C++ ,OpenGl.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
